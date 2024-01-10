@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+.vscode/
+
+conf/app.ini
+runtime/
+tmp/
+note.md
+gin-gorm-base
+dao/
